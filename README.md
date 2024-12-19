@@ -7,7 +7,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/nishant_patriot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nishant_patriot" height="30" width="40" /></a>
+<a href="https://x.com/nishant_patriot" target="blank"><img align="center" src="https://img.shields.io/badge/-000%3F%26logo%3Dtwitter?style=for-the-badge&logo=x&logoColor=white&color=black" alt="" height="30" /></a>
+  
 <a href="https://linkedin.com/in/nishant kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nishant kumar" height="30" width="40" /></a>
 </p>
 
