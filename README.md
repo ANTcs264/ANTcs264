@@ -8,8 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://x.com/nishant_patriot" target="blank"><img align="center" src="https://img.shields.io/badge/-000%3F%26logo%3Dtwitter?style=for-the-badge&logo=x&logoColor=white&color=black" alt="" height="30" /></a>
-  
-<a href="https://linkedin.com/in/nishant kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nishant kumar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nishant-kumar-6ba834297/" target="blank"><img align="center" src="https://img.shields.io/badge/-linkedin-000%3F%26logo%3Dlinkedin?style=for-the-badge&logo=linkedin&logoColor=blue&color=black" alt="" height="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
