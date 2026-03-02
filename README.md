@@ -1,21 +1,94 @@
-![3211451 (1)](https://github.com/user-attachments/assets/e54089c8-1e91-4946-a18c-b4ed5b97bdfd)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=200&section=header&text=Nishant%20Kumar&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
 <h1 align="center">Hi 👋, I'm Nishant Kumar</h1>
 
-<h3 align="center">Don't believe in taking right decisions, take decisions and then make them right.</h3>
+<h3 align="center">
+💻 Developer | 🤖 AI & ML Enthusiast | 🚀 Tech Explorer
+</h3>
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://x.com/nishant_patriot" target="blank"><img align="center" src="https://img.shields.io/badge/-000%3F%26logo%3Dtwitter?style=for-the-badge&logo=x&logoColor=white&color=black" alt="" height="30" /></a>
-<a href="https://www.linkedin.com/in/nishant-kumar-1a70912b7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://img.shields.io/badge/-000%3F%26logo%3Dlinkedin?style=for-the-badge&logo=l&logoColor=white&color=black" alt="" height="30" /></a>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&lines=Web+Developer;Python+Programmer;AI+%26+Machine+Learning+Learner;Always+Learning+New+Things" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=antcs264&show_icons=true&locale=en&layout=compact" alt="antcs264" /></p>
+# 🚀 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=antcs264&show_icons=true&locale=en" alt="antcs264" /></p>
+- 🌱 Currently learning **Artificial Intelligence & Machine Learning**
+- 💻 Skilled in **Python, JavaScript, C**
+- 🤖 Knowledge of **AI and Machine Learning concepts**
+- 🌐 Interested in **Web Development, AI and Open Source**
+- 🎯 Goal: Become a **Skilled Software Developer**
+- ⚡ Fun fact: *I don't believe in taking right decisions, I take decisions and then make them right.*
 
+---
 
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://x.com/nishant_patriot">
+<img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/nishant-kumar-1a70912b7">
+<img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 🛠️ Languages and Tools
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=c,python,javascript,html,css,bootstrap,git,github,vscode" />
+
+</p>
+
+---
+
+# 🤖 AI / ML Skills
+
+- Machine Learning Basics
+- Artificial Intelligence Fundamentals
+- Python for Machine Learning
+- Data Analysis
+- Model Training Concepts
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=antcs264&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antcs264&layout=compact&theme=tokyonight"/>
+
+<img src="https://streak-stats.demolab.com?user=antcs264&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📌 Featured Projects
+
+🔹 Add your best projects here
+
+- 🚀 Project Name – Short Description  
+- 🌐 Project Name – Short Description  
+- 🤖 AI Project – Short Description  
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=antcs264&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=120&section=footer"/>
