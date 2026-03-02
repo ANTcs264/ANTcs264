@@ -1,13 +1,15 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=200&section=header&text=Nishant%20Kumar&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+<p align="center">
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="850px"/>
+</p>
 
 <h1 align="center">Hi 👋, I'm Nishant Kumar</h1>
 
 <h3 align="center">
-💻 Developer | 🤖 AI & ML Enthusiast | 🚀 Tech Explorer
+💻 Full Stack Developer | 🤖 AI & ML Enthusiast | 🚀 Future AI Engineer
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&lines=Web+Developer;Python+Programmer;AI+%26+Machine+Learning+Learner;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;Java+Programmer;Python+Developer;AI+%26+Machine+Learning+Learner;Future+AI+Engineer" />
 </p>
 
 ---
@@ -15,11 +17,16 @@
 # 🚀 About Me
 
 - 🌱 Currently learning **Artificial Intelligence & Machine Learning**
-- 💻 Skilled in **Python, JavaScript, C**
-- 🤖 Knowledge of **AI and Machine Learning concepts**
-- 🌐 Interested in **Web Development, AI and Open Source**
-- 🎯 Goal: Become a **Skilled Software Developer**
-- ⚡ Fun fact: *I don't believe in taking right decisions, I take decisions and then make them right.*
+- 💻 Skilled in **Python, Java, JavaScript, C**
+- 🌐 Knowledge of **Full Stack Web Development**
+- 🤖 Knowledge of **AI and Machine Learning**
+- 📊 Interested in **Data Science & Intelligent Systems**
+- 🎯 Career Goals:
+  - 🤖 **AI Engineer**
+  - 🧠 **Machine Learning Engineer**
+  - 📊 **Data Scientist**
+
+⚡ *I don't believe in taking right decisions, I take decisions and then make them right.*
 
 ---
 
@@ -39,11 +46,11 @@
 
 ---
 
-# 🛠️ Languages and Tools
+# 🛠 Languages and Tools
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=c,python,javascript,html,css,bootstrap,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=c,java,python,javascript,html,css,bootstrap,git,github,vscode,nodejs,react" />
 
 </p>
 
@@ -51,11 +58,11 @@
 
 # 🤖 AI / ML Skills
 
-- Machine Learning Basics
-- Artificial Intelligence Fundamentals
-- Python for Machine Learning
-- Data Analysis
-- Model Training Concepts
+- Machine Learning Fundamentals  
+- Artificial Intelligence Concepts  
+- Python for AI/ML  
+- Data Analysis  
+- Model Training Basics  
 
 ---
 
@@ -63,32 +70,28 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=antcs264&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antcs264&layout=compact&theme=tokyonight"/>
-
 <img src="https://streak-stats.demolab.com?user=antcs264&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# 📌 Featured Projects
+# 📈 Daily Contribution Graph
 
-🔹 Add your best projects here
-
-- 🚀 Project Name – Short Description  
-- 🌐 Project Name – Short Description  
-- 🤖 AI Project – Short Description  
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=antcs264&theme=tokyo-night"/>
+</p>
 
 ---
 
 # 👀 Profile Views
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=antcs264&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=antcs264&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=120&section=footer"/>
+<p align="center">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
