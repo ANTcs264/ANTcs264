@@ -70,7 +70,7 @@
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=antcs264&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=ANTcs264&theme=tokyonight"/>
 
 </p>
 
